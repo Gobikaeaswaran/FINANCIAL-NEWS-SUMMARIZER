@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+transformers
+torch
+sentence-transformers
+scikit-learn
+beautifulsoup4
+requests
+spacy
+nltk
+pydantic
+python-multipart
+python-dotenv
